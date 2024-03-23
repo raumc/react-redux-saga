@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <h1> Let's test the code with the help og git</h1>
+      <h1> Let's test </h1>
       <Routes>
         <Route path='/' element={<Main />} />
         <Route path='/cart' element={<Cart />} />
