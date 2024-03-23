@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+     <h1>conflict created</h1>
      <h1>Ruchi conflict text</h1>
       <Routes>
         <Route path='/' element={<Main />} />
