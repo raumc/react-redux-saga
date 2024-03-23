@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-     <h1>Ruchi's test for push</h1>
+     <h1>Ruchi's</h1>
       <Routes>
         <Route path='/' element={<Main />} />
         <Route path='/cart' element={<Cart />} />
