@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <h1> Let's test for the project ruchi test </h1>
+      <h1> Let's test for the project ruchi test test two </h1>
       <Routes>
         <Route path='/' element={<Main />} />
         <Route path='/cart' element={<Cart />} />
